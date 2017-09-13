@@ -1,0 +1,17 @@
+--JavaSE
+#0.基本数据类与运算符号与流程控制
+#1.面向对象
+#2.Java类与对象的初始化
+#3.Object类
+#4.数据类型(Byte、Charactor、Short、Integer、Long、Float、Double、Boolean)
+#5.String类
+#6.Collection
+#7.BIO
+#8.Socket
+#8.Threads
+#9.NIO
+--JavaSENormal
+#0.reflect
+#1.Proxy
+#2.ClassLoader
+#3.
